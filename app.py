@@ -279,7 +279,7 @@ st.markdown("""
 <div class="hero-banner">
     <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
         <div>
-            <h1 class="hero-title">⚡ Multi-Agent "Agent-as-a-Service" Platform</h1>
+            <h1 class="hero-title">⚡ "Eval-as-a-Service" Platform</h1>
             <p class="hero-sub">Enterprise Multi-Agent Platform (E-Commerce Agent & Financial SaaS Agent) with Real-Time DeepEval Metrics</p>
         </div>
         <div style="display: flex; gap: 10px; flex-wrap: wrap;">
